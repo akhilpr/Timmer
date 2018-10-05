@@ -1,3 +1,3 @@
 # React-Timmer
 # Author 
-#Akhil PR
+*Akhil PR
